@@ -1,0 +1,20 @@
+div .formDatas .btnGerarRelatorio {
+  align-self: flex-end;
+  text-align: end;
+}
+
+div .relatorio {
+  margin-top: 10px;
+}
+
+.datasInvalidas {
+  color: red;
+}
+
+th.export {
+  text-align: right !important;
+}
+
+button.export {
+  padding: 1px 10px;
+}
